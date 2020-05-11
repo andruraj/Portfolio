@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.5e052884.chunk.css",
+    "main.js": "/Portfolio/static/js/main.400e3563.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.400e3563.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.d26897fe.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d26897fe.js.map",
+    "static/js/2.1629d553.chunk.js": "/Portfolio/static/js/2.1629d553.chunk.js",
+    "static/js/2.1629d553.chunk.js.map": "/Portfolio/static/js/2.1629d553.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.4f29afed40a56d72ff82a25e7d743b1f.js": "/Portfolio/precache-manifest.4f29afed40a56d72ff82a25e7d743b1f.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.5e052884.chunk.css.map": "/Portfolio/static/css/main.5e052884.chunk.css.map",
+    "static/js/2.1629d553.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.1629d553.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Portfolio/static/media/bg.089925a6.jpg",
+    "static/media/insta.svg": "/Portfolio/static/media/insta.03c1fcb5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d26897fe.js",
+    "static/js/2.1629d553.chunk.js",
+    "static/css/main.5e052884.chunk.css",
+    "static/js/main.400e3563.chunk.js"
+  ]
+}
