@@ -143,7 +143,8 @@ export const BoxHighlighted = ({
         className="box-anim"
         style={{
           height: height ? `${height}px` : "100%",
-          width: width ? `${width}px` : "100%",
+          width: `${width}px`,
+          // width: width ? `${width}px` : "100%",
           border: bordered ? "0.1px solid rgba(255,255,255,0.1)" : "none",
         }}
       >

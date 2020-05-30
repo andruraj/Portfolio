@@ -11,7 +11,7 @@ const Main = () => {
             <span>Follow Me</span>
             <img src={Insta} alt={"logo"} />
           </div> */}
-          <span className="main-topic">developer</span>
+          <div className="main-topic">developer</div>
         </div>
         <div className="mouse">
           <span></span>
